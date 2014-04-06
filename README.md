@@ -3,13 +3,13 @@ Rozpoznávání objektu v obraze
 
 Analýza snímků z webkamery, rozpoznání objektu v obraze podle barvy a sledování jeho pohybu.
 
-![alt text](https://github.com/machl/color-object-recognition/blob/master/img1.jpg "Vyznačení rozpoznaného objektu")
+![alt text](img1.jpg "Vyznačení rozpoznaného objektu")
 
 ## Demonstrace algoritmu
 
 Tato aplikace pro kreslení umí využít vaší webkamery ke snímání obrazu. Pohybem jakéhokoliv červeného, zeleného nebo modrého objektu se určuje pozice štětce. Můžete tak kreslit přímo do okna webkamery obrazce, měnit barvu a šířku štětce. Nakreslený obrázek můžete vymazat a začít s kreslením od znova.
 
-![alt text](https://github.com/machl/color-object-recognition/blob/master/img2.jpg "Aplikace pro kreslení pohybem rozpoznaného objektu")
+![alt text](img2.jpg "Aplikace pro kreslení pohybem rozpoznaného objektu")
 
 ## Spuštění
 
